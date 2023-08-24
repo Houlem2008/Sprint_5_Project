@@ -1,7 +1,7 @@
 # Sprint_5_Project
 TripleTen Sprint 5 Final Project
 
-My first Integrated Project, meaning that there weren't extensive lessons in this sprint, rather the project was utilizing numerous techniques and knowledge from previous lessons. Sprint Length was 2 weeks.
+My first Integrated Project, meaning that there weren't extensive lessons in this sprint, rather the project was utilizing numerous techniques and knowledge from previous lessons. Sprint length was 2 weeks.
 
 Instructions provided by TripleTen Program:
 
